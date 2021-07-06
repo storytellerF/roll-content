@@ -1,0 +1,3 @@
+rootProject.name = "roll_content"
+include ':roll_content'
+include ':roll_content:test'
